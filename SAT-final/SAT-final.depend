@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746985770 source:d:\uvt\mpi\sat-final\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<cmath>
+
